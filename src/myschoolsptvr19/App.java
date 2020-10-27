@@ -16,7 +16,7 @@ import tools.savers.SaveToFile;
 
 /**
  *
- * @author sillamae kutsekool
+ * @author user
  */
 class App {
     private Scanner scanner = new Scanner(System.in);

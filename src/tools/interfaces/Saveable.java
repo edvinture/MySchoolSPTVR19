@@ -10,7 +10,7 @@ import java.util.List;
 
 /**
  *
- * @author sillamae kutsekool
+ * @author user
  */
 public interface Saveable {
     public void saveToFile(List arrayList,String fileName); 
